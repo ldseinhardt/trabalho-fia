@@ -17,4 +17,6 @@ A interface gráfica foi inspirada em pokemon com gráficos encontrados na inter
 
 Para executar no Windows, basta dar um click duplo em Game.exe não necessitando da IDE instalada, e em ambiente linux utilizado wine.
 
+Vídeo: https://www.youtube.com/watch?v=1ucxxXA6rXA
+
 06/02/2014
